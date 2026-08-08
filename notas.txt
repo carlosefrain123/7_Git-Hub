@@ -1,0 +1,2 @@
+1. Si quieres agregar solo 1 carpeta:
+git add (Ejemplo: git add android/)
